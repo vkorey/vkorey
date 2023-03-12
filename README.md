@@ -1,6 +1,5 @@
 Hi 👋 My name is Vladmir!
 ========================= 
-* 🌍  I'm based in Yerevan
 * ✉️  You can contact me at [vvkorey@gmail.com](mailto:vvkorey@gmail.com)
 * 📫 tg: @vkorey
 
